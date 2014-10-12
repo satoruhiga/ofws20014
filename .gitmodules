@@ -1,0 +1,15 @@
+[submodule "addons/ofxAfterEffectsKeyframeParser"]
+	path = addons/ofxAfterEffectsKeyframeParser
+	url = git@github.com:satoruhiga/ofxAfterEffectsKeyframeParser.git
+[submodule "addons/ofxAlembic"]
+	path = addons/ofxAlembic
+	url = https://perfume-dev-team@github.com/perfume-dev/ofxAlembic.git
+[submodule "addons/ofxExportImageSequence"]
+	path = addons/ofxExportImageSequence
+	url = git@github.com:satoruhiga/ofxExportImageSequence.git
+[submodule "addons/ofxPDF"]
+	path = addons/ofxPDF
+	url = git@github.com:satoruhiga/ofxPDF.git
+[submodule "addons/ofxTrueTypeFontUL2"]
+	path = addons/ofxTrueTypeFontUL2
+	url = git@github.com:kentaroid/ofxTrueTypeFontUL2.git
